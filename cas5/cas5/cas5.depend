@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1774639501 source:c:\users\owner\desktop\posao\ljetnji semestar\principi programiranja\cas5\cas5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+
