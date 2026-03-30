@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1774826686 source:c:\users\owner\desktop\posao\ljetnji semestar\principi programiranja\priprema rijeseni zadaci\zadaci\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<ctype.h>
-
