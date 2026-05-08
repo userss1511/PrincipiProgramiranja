@@ -1,0 +1,3 @@
+principi programiranja
+jezik C
+smjerovi A i B i D

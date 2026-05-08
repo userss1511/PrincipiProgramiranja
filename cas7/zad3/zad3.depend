@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1778238518 source:c:\users\owner\desktop\posao\ljetnji semestar\principi programiranja\cas7\zad3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
