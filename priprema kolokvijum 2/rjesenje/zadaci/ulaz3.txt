@@ -1,0 +1,2 @@
+radar sensors scan one level of altitude
+we are considering redivider for edge computing
